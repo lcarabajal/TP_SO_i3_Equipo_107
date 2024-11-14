@@ -103,3 +103,33 @@ Adaptador de Ethernet vEthernet (WSL (Hyper-V firewall)):
    Direcci¢n IPv4. . . . . . . . . . . . . . : 172.25.128.1
    M scara de subred . . . . . . . . . . . . : 255.255.240.0
    Puerta de enlace predeterminada . . . . . :
+
+Nombre: Morena
+Apellido: Fernandez
+hora: 13:43
+
+
+Configuraci¢n IP de Windows
+
+
+Adaptador de Ethernet Ethernet 2:
+
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+   V¡nculo: direcci¢n IPv6 local. . . : fe80::e2e4:20a8:b5cf:d451%6
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   M scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 
+
+Adaptador de Ethernet Ethernet:
+
+   Sufijo DNS espec¡fico para la conexi¢n. . : home
+   Direcci¢n IPv6 . . . . . . . . . . : 2800:810:48a:735:8c1b:fdc8:c5c0:c02e
+   Direcci¢n IPv6 . . . . . . . . . . : 2800:810:48a:735:f42a:8dca:3929:81ac
+   Direcci¢n IPv6 . . . . . . . . . . : fdaa:bbcc:ddee:0:49ee:ce67:aa19:4a57
+   Direcci¢n IPv6 temporal. . . . . . : 2800:810:48a:735:e0e3:c21f:c114:457
+   Direcci¢n IPv6 temporal. . . . . . : fdaa:bbcc:ddee:0:e0e3:c21f:c114:457
+   V¡nculo: direcci¢n IPv6 local. . . : fe80::f341:431c:62d6:f398%5
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.0.162
+   M scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : fe80::3293:bcff:fe49:3aa4%5
+                                       192.168.0.1
