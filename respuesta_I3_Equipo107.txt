@@ -19,4 +19,13 @@ git commit -m "realizado el merge rama GAMMA"
 git push origin/ramaGAMMA
 
 ALFA: 
+git pull origin Carabajal2
+git branch
+git switch Carabajal2
+cat beta.txt
+nano beta.txt
+ipconfig >> beta.txt
+git add .
+git commit -m "modificacion de beta.txt agregando nombre, apellido, informacion de ifconfig y hora"
+git push
 
