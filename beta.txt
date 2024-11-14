@@ -102,4 +102,4 @@ Adaptador de Ethernet vEthernet (WSL (Hyper-V firewall)):
    V¡nculo: direcci¢n IPv6 local. . . : fe80::2265:712a:9442:f315%37
    Direcci¢n IPv4. . . . . . . . . . . . . . : 172.25.128.1
    M scara de subred . . . . . . . . . . . . : 255.255.240.0
-   Puerta de enlace predeterminada . . . . . : 
+   Puerta de enlace predeterminada . . . . . :
