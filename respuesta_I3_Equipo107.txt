@@ -1,0 +1,22 @@
+BETA: 
+A- Master queda con toda la informacion dejada por BETA, GAMMA y ALFA
+B- Beta pudo ver todos los cambios que se realizaron
+C- comandos...
+git fetch origin (se actualiza todos los datos de los remotos) 
+git merge origin/Carabajal (Consigue todos los cambios de la rama remota Carabajal)
+git add . 
+git commit -m "realizado el merge de master"
+git push origin/master
+
+GAMMA: 
+D- Ambas ramas quedan actualizadas
+E- Tuvimos incovenientes con el tema de no saber el histories de la rama GAMMA 
+F- comandos...
+git fetch origin 
+git merge origin/main 
+git add . 
+git commit -m "realizado el merge rama GAMMA"
+git push origin/ramaGAMMA
+
+ALFA: 
+
